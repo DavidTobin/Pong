@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+#pong {
+  width: 550px;
+  height: 400px;
+  background: #222426;
+  background: linear-gradient(45deg, #222426 0%, #000 100%);
+  margin: 30px auto 0 auto;
+}
